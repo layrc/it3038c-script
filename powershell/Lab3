@@ -1,0 +1,11 @@
+Function getip{ (Get-NetIPAddress).ipv4address | Select-String "192*" }
+
+$IP = getIP
+$USR = $env:USERNAME
+$HN = hostname 
+$PS = $Host.Version.Major
+$DT = Get-Date
+
+Write-Host("This is machine IP: $IP. The user is: $USR. Host name is: $HN. Powershell version is: $PS. Today's Date is: $DT")
+
+$Body = ("This is machine IP: $IP. The user is: $USR. Host name is: $HN. Powershell version is: $PS. Today's Date is: $DT")
