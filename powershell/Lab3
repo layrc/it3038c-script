@@ -9,3 +9,5 @@ $DT = Get-Date
 Write-Host("This is machine IP: $IP. The user is: $USR. Host name is: $HN. Powershell version is: $PS. Today's Date is: $DT")
 
 $Body = ("This is machine IP: $IP. The user is: $USR. Host name is: $HN. Powershell version is: $PS. Today's Date is: $DT")
+
+Send-MailMessage -To "Ryan.lay16@mail.uc.edu" -From "someone@gmail.com" -Subject "IT3038C Windows SysInfo" -Body $BODY -SmtpServer smtp.gmail.com -port 587 -UseSSL -Credential (Get-Credential)
