@@ -6,7 +6,7 @@ Intro
 To create this script:
  * Create a new file called time.sh or something similar
  * Copy and Paste the script code from time.sh to the new file you created
- * Write and quite that file
+ * Write and quit that file
 
 To run this script:
  * Open a terminal and navigate to the directory where the file is located
