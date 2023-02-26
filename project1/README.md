@@ -4,9 +4,9 @@ Intro
   The time.sh script is a script that was written in bash on a CentOS machine. This script tells you the current time in all six United States time zones.
 
 To create this script:
- *Create a new file called time.sh or something similar
- *Copy and Paste the script code from time.sh to the new file you created
- *Write and quite that file
+ Create a new file called time.sh or something similar
+ Copy and Paste the script code from time.sh to the new file you created
+ Write and quite that file
 
 To run this script:
   Open a terminal and navigate to the directory where the file is located
