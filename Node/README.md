@@ -3,7 +3,7 @@ This script was writen in Node.
 
 Before you get started:
 * Download Node, npm, and install IP (npm install IP)
-* Create a new directory to save the two node files
+* Create a new directory to save the two files
 
 Create server.js:
 * Create a new file called server.js 
