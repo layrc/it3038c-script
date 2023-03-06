@@ -4,10 +4,11 @@ I have created three different python scripts that edits pictures you have saved
 
 Before you began:
 * Step one make sure pip is installed
-``
+```
 curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
+
 python get-pip.py
-``
+```
 * Step two install pillow using pip
 ```
 pip install pillow
