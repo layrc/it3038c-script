@@ -1,6 +1,6 @@
 Lab 7
 
-I have created 3 different python scripts that edits pictures you have saved on your computer.
+I have created 3 different python scripts that edits .jpg images you have saved on your computer.
 
 Before you began:
 * Step 1: Make sure you have python installed
