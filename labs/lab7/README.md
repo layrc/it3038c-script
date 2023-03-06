@@ -1,6 +1,6 @@
 Lab 7
 
-I have created three different python scripts that edits pictures you have saved on your computer.
+I have created 3 different python scripts that edits pictures you have saved on your computer.
 
 Before you began:
 * Step 1: Make sure you have python installed
@@ -18,7 +18,12 @@ python get-pip.py
 pip install pillow
 ```
 
-Once you have pillow installed, you will need to create a new .py file
-Within that file, copy and paste the script
+Once you have completed those steps, you will need to create a new .py file using a text editor of your choice
+```
+sudo vim file_name.py
+```
+* Copy and paste the script into that file 
+* Edit the script to add the image you want to change
 
-You will need to edit each script to add the image you want to change.
+
+
