@@ -1,10 +1,13 @@
 Lab 7
 
-In order to run the 3 scripts in Lab 7, you first have to install pillow. To install pillow you will need pip installed
+I have created three different python scripts that edits pictures you have saved on your computer.
 
 Before you began:
 * Step one make sure pip is installed
-
+``
+curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
+python get-pip.py
+``
 * Step two install pillow using pip
 ```
 pip install pillow
