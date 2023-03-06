@@ -6,9 +6,9 @@ Before you began:
 * Step one make sure pip is installed
 
 * Step two install pillow using pip
-'''
+```
 pip install pillow
-'''
+```
 
 Once you have pillow installed, you will need to create a new .py file
 Within that file, copy and paste the script
