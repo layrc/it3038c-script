@@ -23,7 +23,13 @@ Once you have completed those steps, you will need to create a new .py file usin
 sudo vim file_name.py
 ```
 * Copy and paste the script into that file 
-* Edit the script to add the image you want to change
+* Within each of the scripts you will see two example.jpg, this is where you add the image you want to change
 
+To run this script in the Terminal:
+```
+python file_name.py
+```
+
+The output will show you the edited image
 
 
