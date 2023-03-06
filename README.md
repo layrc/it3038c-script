@@ -2,15 +2,13 @@
 
 ======
 
-### Welcome My App
+### Welcome to my Scripts
 
 ======
 
-My app is so great, sometimes it works! Just download the script, add some execute permissions and run it. The results should show you a list of all of the cat picturees on your machine.
+My Scripts will change the world
 
-```javascript
-Javascript code block to highlight whats up in my code
-```
+
 
 * A single star creates a large heading
 ** Two start is less
