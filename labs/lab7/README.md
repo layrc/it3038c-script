@@ -7,13 +7,13 @@ Before you began:
 ```
 python --version
 ```
-* Step 2: make sure pip is installed
+* Step 2: Make sure pip is installed
 ```
 curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
 
 python get-pip.py
 ```
-* Step 3: install pillow using pip
+* Step 3: Install pillow using pip
 ```
 pip install pillow
 ```
